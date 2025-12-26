@@ -4924,6 +4924,32 @@
             "x": 978,
             "y": 925
           }
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Route 116 East",
+    "children": [
+      {
+        "sections": [
+          {
+            "name": "Item in East",
+            "ref": "Routes/Route 116 East/Item in East"
+          },
+          {
+            "name": "Hidden Item in East",
+            "ref": "Routes/Route 116 East/Hidden Item in East"
+          }
+        ],
+        "map_locations": [        
+          {
+            "map": "rusturf_tunnel",
+            "x": "592",
+            "y": "674",
+            "shape":"diamond"            
+          }
         ]
       }
     ]
