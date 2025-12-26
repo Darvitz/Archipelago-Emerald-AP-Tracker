@@ -4923,7 +4923,7 @@
             "map": "rt_116",
             "x": 978,
             "y": 925
-          }          
+          }
         ]
       }
     ]
@@ -4942,12 +4942,12 @@
             "ref": "Routes/Route 116 East/Hidden Item in East"
           }
         ],
-        "map_locations": [        
+        "map_locations": [
           {
             "map": "rusturf_tunnel",
             "x": "592",
             "y": "674",
-            "shape":"diamond"            
+            "shape": "diamond"
           }
         ]
       }
